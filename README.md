@@ -12,3 +12,4 @@ Two Google Fonts (Inter and Raleway) Animated typing effect for my name on the h
 #🚧 Challenges
 Creating heartbeat animation using only CSS Making everything responsive on all devices
 
+https://mozhganrawan.github.io/My-personal-website/
